@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/haraka/haraka-plugin-geoip#readme",
   "devDependencies": {
-    "eslint": "*",
+    "eslint": ">=3.14.0",
     "eslint-plugin-haraka": "*",
     "haraka-test-fixtures": "*",
     "nodeunit": "*"
